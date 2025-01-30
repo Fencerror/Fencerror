@@ -1,16 +1,36 @@
-## Hi there 👋
+# Привет, я Fencerror! 👋
 
-<!--
-**Fencerror/Fencerror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend-разработчик | Angular Enthusiast**
 
-Here are some ideas to get you started:
+Я люблю направление WEB-разработки -  . Разрабатываю **SPA**, изучаю новые подходы и технологии в мире фронтенда.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 О себе
+- 🎨 **Frontend :** Angular, TypeScript, RxJS, SCSS, TailwindCSS
+- ⚡ **Опыт работы с:** REST API, WebSockets, JWT аутентификация
+- 🛠 **Дополнительно:** Docker, CI/CD, DevOps-практики
+- 📚 Постоянно учусь и совершенствуюсь
+
+## 🛠 Технологии
+### 💡 **Основной стек:**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=black)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=black)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=black)
+
+### 🖥 **Бэкенд & DevOps:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=black)
+
+## 📈 GitHub Статистика
+![Fencerror's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fencerror&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fencerror&layout=compact&theme=radical)
+
+
+## 🔗 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram)](https://t.me/fencerror)
+[![VK]([https://img.shields.io/badge/VK-blue?style=flat&logo=vk](https://img.shields.io/badge/VK-black?style=flat&logo=vk))](https://vk.com/stepan_orlow)
+
+💡 **Люблю писать чистый код, разрабатывать архитектуру и изучать новые технологии.** Если у тебя есть интересные идеи или предложения, пиши — всегда рад общению! 🚀
+
