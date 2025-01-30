@@ -23,14 +23,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=black)
 
-## 📈 GitHub Статистика
-![Fencerror's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fencerror&show_icons=true&theme=radical)
+## 📈 GitHub языки
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fencerror&layout=compact&theme=radical)
 
 
 ## 🔗 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram)](https://t.me/fencerror)
-[![VK]([https://img.shields.io/badge/VK-blue?style=flat&logo=vk](https://img.shields.io/badge/VK-black?style=flat&logo=vk))](https://vk.com/stepan_orlow)
+[![VK](https://img.shields.io/badge/VK-black?style=flat&logo=vk)](https://vk.com/stepan_orlow)
 
 💡 **Люблю писать чистый код, разрабатывать архитектуру и изучать новые технологии.** Если у тебя есть интересные идеи или предложения, пиши — всегда рад общению! 🚀
 
