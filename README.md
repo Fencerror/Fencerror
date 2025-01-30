@@ -3,7 +3,9 @@
 🚀 **Frontend-разработчик | Angular Enthusiast**
 
 Я люблю направление WEB-разработки. Разрабатываю **SPA**, изучаю новые подходы и технологии в мире фронтенда.
-![Web-development](https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif)
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" width="100"/>
+</div>
 
 ## 🔥 О себе
 - 🎨 **Frontend :** Angular, TypeScript, RxJS, SCSS, TailwindCSS
