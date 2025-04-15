@@ -7,22 +7,28 @@
 <body>
   <div id="header" align="center">
     <h1>Привет, я Fencerror! 👋</h1>
-    <p>🚀 <strong>Frontend-разработчик | Angular Enthusiast</strong></p>
-    <p>Я люблю направление WEB-разработки. Разрабатываю <strong>SPA</strong>, изучаю новые подходы и технологии в мире фронтенда.</p>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlyd2VrMzg2YndndTNqZnFycHgwNm5iNm5iNWM4dWdrc2Y2aGEyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" width="300" alt="Fencerror"/>
+    <p>🚀 <strong>Frontend-разработчик </p>
+    <p>Я люблю направление WEB-разработки. Разрабатываю <strong>эстетичные</strong приложения, изучаю новые подходы и технологии в мире фронтенда.</p>
+    
+![Programación](https://github.com/user-attachments/assets/34cd4625-09ff-463b-8979-565583f5f19b)
+
   </div>
 
   <h2>🔥 О себе</h2>
   <ul>
-    <li>🎨 <strong>Frontend:</strong> Angular, TypeScript, RxJS, SCSS, TailwindCSS</li>
+    <li>🎨 <strong>Frontend:</strong> React, Angular, TypeScript, JavaScript и многое другое...</li>
     <li>⚡ <strong>Опыт работы с:</strong> REST API, WebSockets, JWT аутентификация</li>
-    <li>🛠 <strong>Дополнительно:</strong> Docker, CI/CD, DevOps-практики</li>
+    <li>🛠 <strong>Дополнительно:</strong> Python, Docker, CI/CD, DevOps-практики</li>
     <li>📚 Постоянно учусь и совершенствуюсь</li>
   </ul>
 
   <h2>🛠 Технологии</h2>
   <h3>💡 <strong>Основной стек:</strong></h3>
   <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=black" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=black" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=black" alt="Angular"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=black" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=black" alt="RxJS"/>
