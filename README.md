@@ -35,9 +35,10 @@
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=black" alt="SCSS"/>
   </p>
 
-  <h3>🖥 <strong>Бэкенд & DevOps:</strong></h3>
+  <h3>🖥 <strong>Бэкенд</strong></h3>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=black" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Python-339933?style=flat&logo=python&logoColor=black" alt="Python"/>
   </p>
 
   <h2>📈 GitHub языки</h2>
