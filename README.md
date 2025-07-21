@@ -37,7 +37,6 @@
 
   <h3>🖥 <strong>Бэкенд</strong></h3>
   <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=black" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Python-339933?style=flat&logo=python&logoColor=black" alt="Python"/>
   </p>
 
